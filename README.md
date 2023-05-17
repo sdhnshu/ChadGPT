@@ -1,3 +1,3 @@
 # ChadGPT
 
-![Chad-gPT](https://github.com/sdhnshu/ChadGPT/assets/8189505/3a4d2637-d3ba-4514-bdbb-d4af8f8b1b14)
+![Chad-gPT](https://github.com/sdhnshu/ChadGPT/assets/8189505/b42b7410-ce05-43dc-9166-39ca276b3f22)
